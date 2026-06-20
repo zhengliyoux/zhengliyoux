@@ -8,12 +8,12 @@
   </a>
 
   <p>
-    <a href="https://www.instagram.com/yoalahhasu?igsh=MTVobGsydHVkbTdidg==" target="_blank">
+    <a href="https://www.instagram.com/bytewithdee?igsh=MTVobGsydHVkbTdidg==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     &nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61574391667613" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+<a href="https://www.tiktok.com/@nocturaflow?_r=1&_t=ZS-97N4G5dxdhA" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
     </a>
   </p>
 
