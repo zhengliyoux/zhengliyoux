@@ -22,14 +22,14 @@
 ### 👨‍💻 About Me
 
 ```typescript
-interface Putra {
+interface PutraNotDevz {
     role: string;
     language: string[];
     tools: string[];
     status: string;
 }
 
-const putra: Putra = {
+const putra: PutraNotSeouh = {
     role: "Backend Developer",
     language: ["JavaScript", "TypeScript", "Golang"],
     tools: ["VS Code", "Git", "Postman", "Docker"],
