@@ -23,10 +23,7 @@ My focus is on learning the fundamentals of programming and contributing to mean
 <p align="center">
   <a href="https://github.com/zhengliyoux">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhengliyoux&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
- <a href="https://github.com/zhengliyoux">
-  <h1>My Programming Languages<h1>
-  <img height="50" src="https://skillicons.dev/icons?i=html,css,javascript,java,flutter,androidstudio,cordova,capacitor&theme=dark" />
-</p>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhengliyoux&layout=compact&langs_count=8&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
   </a>
 </p>
 
@@ -59,7 +56,7 @@ My focus is on learning the fundamentals of programming and contributing to mean
 <a href="https://tiktok.com/@leaddevaisy" target="_blank">
   <img alt="TikTok" src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-<a href="https://wa.me/6289526377530" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbDGLzRH5JLrDu31XU0q" target="_blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-374151?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="mailto:zhengliyoux@gmail.com" target="_blank">
