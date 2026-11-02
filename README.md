@@ -23,7 +23,8 @@ My focus is on learning the fundamentals of programming and contributing to mean
 <p align="center">
   <a href="https://github.com/zhengliyoux">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhengliyoux&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhengliyoux&layout=compact&langs_count=8&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,javascript,java,flutter,androidstudio,cordova,capacitor&theme=dark" />
+</p>
   </a>
 </p>
 
