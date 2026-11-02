@@ -1,50 +1,68 @@
 <div align="center">
-  <img src="https://c.termai.cc/i106/8p4e.jpg" alt="ShiroKaze Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 
-  <br/><br/>
+# Hi, I'm [Putra](https://www.tiktok.com/@leaddevaisy)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Putra;JavaScript+Enthusiast;Backend+Developer;Go+%26+TypeScript+User" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <a href="https://www.instagram.com/bytewithdee?igsh=MTVobGsydHVkbTdidg==" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    &nbsp;
-<a href="https://www.tiktok.com/@nocturaflow?_r=1&_t=ZS-97N4G5dxdhA" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
-    </a>
-  </p>
+*Beginner developer · Open-source enthusiast · Lifelong learner*
 
 </div>
 
-### 👨‍💻 About Me
+---
 
-```typescript
-interface PutraNotDevz {
-    role: string;
-    language: string[];
-    tools: string[];
-    status: string;
-}
+### ⌗ About Me
 
-const putra: PutraNotSeouh = {
-    role: "Backend Developer",
-    language: ["JavaScript", "TypeScript", "Golang"],
-    tools: ["VS Code", "Git", "Postman", "Docker"],
-    status: "Sleep"
-};
-```
+I'm **Putra**, a beginner in the world of coding, dedicated to exploring technology and developing my skills through hands-on projects.
+
+### ⌗ Overview
+
+My focus is on learning the fundamentals of programming and contributing to meaningful projects. I aim to build practical solutions and grow within the open-source community.
+
+---
+
+### ⌗ Statistic
+
+<p align="center">
+  <a href="https://github.com/zhengliyoux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhengliyoux&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhengliyoux&layout=compact&langs_count=8&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zhengliyoux">
+    <img height="180em" src="https://streak-stats.demolab.com?user=zhengliyoux&theme=dark&border=FFFFFF#gh-dark-mode-only" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+### ⌗ Learning Projects
+
+- Developing simple applications to gain practical experience.
+- Experimenting with interactive, real-time features.
+- View all projects on [my GitHub](https://github.com/zhengliyoux).
+
+---
+
+### ⌗ Connect With Me
+
 <div align="center">
-  <h3>💻 Tech Stack</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
-  </a>
-</div>
-<h3>📈 Coding Activity</h3>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhengliyoux&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Putra Activity Graph" width="100%" />
+
+<a href="https://github.com/zhengliyoux" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<a href="https://instagram.com/bytewithdee" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-4B5563?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://tiktok.com/@leaddevaisy" target="_blank">
+  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://wa.me/6289526377530" target="_blank">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-374151?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:zhengliyoux@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-6B7280?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
+
+---
